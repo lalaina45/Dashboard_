@@ -1,24 +1,24 @@
 {
   "indicators": [
     {
-      "name": "Total",
+      "name": "CSB CPN précoce",
       "type": "indicator",
-      "dhisID": "CYBvorjaF3c",
-      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT",
+      "dhisID": "g2NF4Z3cbj3",
+      "dhisName": "CSB MSR Taux de CPN précoce (<4mois)",
       "groupCode": "G1"
     },
     {
-      "name": "0-5 ans",
+      "name": "CSB CPN1",
       "type": "indicator",
-      "dhisID": "HpKTyXNeVWW",
-      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT (chez les < 5 ans)",
+      "dhisID": "vseXEsxYqEN",
+      "dhisName": "CSB MSR Taux de couverture en CPN1",
       "groupCode": "G1"
     },
     {
       "name": "6-13 ans",
       "type": "indicator",
       "dhisID": "fdIdtHWGrOe",
-      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT  (6-13 ans)",
+      "dhisName": "CHRD Proportion Femmes enceintes vues en 1ère CPN",
       "groupCode": "G1"
     },
     {
