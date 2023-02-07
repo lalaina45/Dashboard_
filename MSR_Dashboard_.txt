@@ -15,67 +15,66 @@
       "groupCode": "G1"
     },
     {
-      "name": "6-13 ans",
+      "name": "CHRD CPN1",
       "type": "indicator",
-      "dhisID": "fdIdtHWGrOe",
+      "dhisID": "TAtqlBAAMQX",
       "dhisName": "CHRD Proportion Femmes enceintes vues en 1ère CPN",
       "groupCode": "G1"
     },
     {
-      "name": "14+",
+      "name": "CSB CPN4+",
       "type": "indicator",
-      "dhisID": "Jr0c0vsG8kO",
-      "dhisName": "CSB PALU Taux de positivité du paludisme par rapport aux tests RDT  (14+)",
+      "dhisID": "TuU9jZHMAXr",
+      "dhisName": "CSB MSR Taux de couverture en CPN4 et Plus",
       "groupCode": "G1"
     },
     {
-      "name": "Vus en Consultation Externe ",
+      "name": "CHRD CPN4+",
       "type": "indicator",
-      "dhisID": "bHdGClebARP",
-      "dhisName": "CSB PALU Proportion de cas de paludisme grave vus en consultations externes refere ",
+      "dhisID": "SBgRM6P8WE8",
+      "dhisName": "CHRD Proportion Femmes enceintes ayant effectué 4 CPN et plus ",
+      "groupCode": "G1"
+    },
+    {
+      "name": "CSB accouchement ",
+      "type": "indicator",
+      "dhisID": "rZ284PLILin",
+      "dhisName": "CSB MSR Taux d'accouchement Total FS",
       "groupCode": "G2"
     },
     {
-      "name": "Total cas traité ACT",
+      "name": "CHRD accouchement",
       "type": "indicator",
-      "dhisID": "VxJF9zNlxDT",
-      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmés traité par ACT",
-      "groupCode": "G3"
+      "dhisID": "VPkbQLAolwg",
+      "dhisName": "CHRD Taux d’utilisation des accouchements à la Maternité",
+      "groupCode": "G2"
     },
     {
-      "name": "Traité ACT 5 ans",
+      "name": "CSB N-né < 2500g",
       "type": "indicator",
-      "dhisID": "kcrink1PKc7",
-      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmes chez les enfants <5 ans traite par ACT",
-      "groupCode": "G3"
+      "dhisID": "nHdWxA7cFvB",
+      "dhisName": "CSB MSR Proportion de nouveau-nés < 2500g",
+      "groupCode": "G2"
     },
     {
-      "name": "Traité ACT 6 - 13 ans",
+      "name": "CHRD OC",
       "type": "indicator",
-      "dhisID": "b4R07A4SU4y",
-      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmes chez les enfants  6 - 13 ans traite par ACT",
-      "groupCode": "G3"
+      "dhisID": "UO1ZZjdOXEk",
+      "dhisName": "CHRD Taux des Opérations Cesariennes au niveau hôpitaux",
+      "groupCode": "G2"
     },
     {
-      "name": "Traité ACT 14+ ans",
+      "name": "CSB Avortement",
       "type": "indicator",
-      "dhisID": "oxeFyDW46EQ",
-      "dhisName": "CSB Palu Proportion de cas de paludisme  simple confirmes chez les enfants 14+ traite par ACT",
-      "groupCode": "G3"
+      "dhisID": "EVNMRpf4gLB",
+      "dhisName": "CSB Proportion d'avortement ",
+      "groupCode": "G2"
     },
     {
-      "name": "Traitement de pré-réference paludisme grave",
+      "name": "CSB complication accouchement",
       "type": "indicator",
-      "dhisID": "ciJsCzscv8n",
-      "dhisName": "CSB PALU Proportion de patients ayant reçu un traitement de pré-référence pour paludisme grave",
-      "groupCode": "G3"
-    },
-    {
-      "name": "0-5 ans ayant eu MID",
-      "type": "indicator",
-      "dhisID": "nva1DfOQ16Y",
-      "dhisName": "CSB PALU Proportion d'enfants < 5 ans  ayant recu un MID",
-      "groupCode": "G4"
+      "dhisID": "mORrsXxs7Qx",
+      "dhisName": "CSB MSR Proportion de complication accouchement": "G2"
     },
     {
       "name": "Enfants complètement vaccinés ayant eu MID",
@@ -86,7 +85,7 @@
     },
     {
       "name": "FE ayant eu TPI3 et +",
-      "type": "indicator",
+      "type": "indicator",CSB MSR Proportion de complication accouchement
       "dhisID": "BNQ7j1HDgSm",
       "dhisName": "CSB PALU Proportion de Femmes Enceintes ayant reçu TPI3 et plus",
       "groupCode": "G4"
@@ -228,7 +227,7 @@
   "indicatorGroup": [
     {
       "code": "G1",
-      "name": "Dépistage CSB",
+      "name": "CPN",
       "titre": "Taux de cas téstés positifs par RDT (%)"
     },
     {
