@@ -1,7 +1,7 @@
 {
   "indicators": [
     {
-      "name": "CSB CPN précoce",
+      "name": "CSB2 CPN précoce",
       "type": "indicator",
       "dhisID": "g2NF4Z3cbj3",
       "dhisName": "CSB MSR Taux de CPN précoce (<4mois)",
