@@ -64,202 +64,101 @@
       "groupCode": "G3"
     },
     {
-      "name": "Traitement de pré-réference paludisme grave",
+      "name": "CSB CPoN 3 à 14 jours",
       "type": "indicator",
-      "dhisID": "ciJsCzscv8n",
-      "dhisName": "CSB PALU Proportion de patients ayant reçu un traitement de pré-référence pour paludisme grave",
+      "dhisID": "OoAuAjNMCkj",
+      "dhisName": "CSB MSR Taux de couverture en Consultation Post Natale dans les 3 à 14 jours",
       "groupCode": "G3"
     },
     {
-      "name": "0-5 ans ayant eu MID",
+      "name": "CSB décès maternel",
       "type": "indicator",
-      "dhisID": "nva1DfOQ16Y",
-      "dhisName": "CSB PALU Proportion d'enfants < 5 ans  ayant recu un MID",
+      "dhisID": "zdVeI0RoIOj",
+      "dhisName": "CSB MSR Proportion de décès maternels",
       "groupCode": "G4"
     },
     {
-      "name": "Enfants complètement vaccinés ayant eu MID",
+      "name": "CHRD décès maternel",
       "type": "indicator",
-      "dhisID": "zwpg2p0rg9L",
-      "dhisName": "CSB PEV Porportion de MIDs distribuees aux enfants de moins de 1an completement vaccines",
+      "dhisID": "nDkpPgtPi2v",
+      "dhisName": "CHRD Proportion des décès maternels",
       "groupCode": "G4"
     },
     {
-      "name": "FE ayant eu TPI3 et +",
+      "name": "CSB décès néonatal",
       "type": "indicator",
-      "dhisID": "BNQ7j1HDgSm",
-      "dhisName": "CSB PALU Proportion de Femmes Enceintes ayant reçu TPI3 et plus",
+      "dhisID": "FJ1BRlLGlj8",
+      "dhisName": "CSB MSR Proportion de décès néonatal (0-28j)",
       "groupCode": "G4"
     },
     {
-      "name": "FE vues en CPN1 ayant eu MID",
+      "name": "CHRD décès néonatal",
       "type": "indicator",
-      "dhisID": "PiTE2VkWRCH",
-      "dhisName": "CSB PALU Proportion de FE vues en 1ere CPN ayant eu MID",
+      "dhisID": "t3IQ7q7xYwK",
+      "dhisName": "CHRD Proportion des décès néonataux 0-28 j",
       "groupCode": "G4"
     },
     {
-      "name": "Fièvre toute cause",
+      "name": "CSB  Oxytocine",
       "type": "dataelement",
-      "dhisID": "FvLKwx96Kv0",
-      "dhisName": "Nombre de cas de fievre toute cause CSB ",
+      "dhisID": "IU2c0DA5SI0",
+      "dhisName": "NCSB Intrant Gratuit MSR Taux de Disponibilite Oxytocine injectable",
       "groupCode": "G5"
     },
     {
-      "name": "Fièvre testé RDT",
+      "name": "CHRD  Oxytocine",
       "type": "dataelement",
-      "dhisID": "q87CgC2m7fZ",
-      "dhisName": "Nombre de cas de fievre teste RDT CSB",
+      "dhisID": "BC3uVoGxh1z",
+      "dhisName": "Taux disponibilité des Intrants de santé au niveau FS",
       "groupCode": "G5"
     },
     {
-      "name": "Fièvre testé RDT palu + ",
+      "name": "CSB Chlorhexidine",
       "type": "dataelement",
-      "dhisID": "NU6LJrW5OtP",
-      "dhisName": "Fievre teste RDT+ CSB",
+      "dhisID": "zseDQ6A8Q6m",
+      "dhisName": "Taux disponibilité des Intrants de santé au niveau FS",
       "groupCode": "G5"
     },
     {
-      "name": "RDT palu + traité par ACT",
+      "name": "RCOM Chlorhexidine",
       "type": "dataelement",
-      "dhisID": "oWA1W7mmuba",
-      "dhisName": "Palu traite ACT CSB",
+      "dhisID": "k59fHhSwSwl",
+      "dhisName": "Taux disponibilité des Intrants de santé au niveau FS",
       "groupCode": "G5"
     },
-    {
-      "name": "RDT",
-      "type": "indicator",
-      "dhisID": "ye2hHO822d5",
-      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite RDT",
-      "groupCode": "G6"
-    },
-    {
-      "name": "SP FE",
-      "type": "indicator",
-      "dhisID": "cs9rtOwAZ8F",
-      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite en Sulfadoxine Pyrimethamine FE",
-      "groupCode": "G6"
-    },
-    {
-      "name": "MID routine",
-      "type": "indicator",
-      "dhisID": "rInBKsE1DdZ",
-      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite MID routine ",
-      "groupCode": "G6"
-    },
-    {
-      "name": "ACT 14+",
-      "type": "indicator",
-      "dhisID": "ak34TBRBozQ",
-      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite ACT 14ans et plus",
-      "groupCode": "G6"
-    },
-    {
-      "name": "ACT 1-5ans",
-      "type": "indicator",
-      "dhisID": "CsaLjbj2ykc",
-      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite ACT 1-5ans",
-      "groupCode": "G6"
-    },
-    {
-      "name": "ACT 2-11m",
-      "type": "indicator",
-      "dhisID": "TUUQarUxR64",
-      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite ACT 2-11m",
-      "groupCode": "G6"
-    },
-    {
-      "name": "ACT 6-13ans",
-      "type": "indicator",
-      "dhisID": "d7zqV9Y8BNl",
-      "dhisName": "CSB Intrant Gratuit PALU Taux de Disponibilite en ACT 6-13ans ",
-      "groupCode": "G6"
-    },
-    {
-      "name": "total décès hospitaliers",
-      "type": "indicator",
-      "dhisID": "GBody1oS7q4",
-      "dhisName": "CHRD Proportion décès de paludisme en milieu hospitalier",
-      "groupCode": "G7"
-    },
-    {
-      "name": "0-5 ans",
-      "type": "indicator",
-      "dhisID": "STm0ZR3Uyqh",
-      "dhisName": "CHRD Proportion décès de paludisme en milieu hospitalier -5ans",
-      "groupCode": "G7"
-    },
-    {
-      "name": "5 - 14 ans",
-      "type": "indicator",
-      "dhisID": "GLRltkkV7AX",
-      "dhisName": "CHRD Proportion de décès du Paludisme chez les 5 - 14 ans ",
-      "groupCode": "G7"
-    },
-    {
-      "name": "14+",
-      "type": "indicator",
-      "dhisID": "iGhivwG9ESA",
-      "dhisName": "CHRD Proportion de décès du Paludisme chez  les 14+ ans",
-      "groupCode": "G7"
-    },
-    {
-      "name": "Chez FE",
-      "type": "indicator",
-      "dhisID": "ZMkOGJ5zkM1",
-      "dhisName": "CHRD Proportion de deces du Paludisme chez  les Femmes Enceintes",
-      "groupCode": "G7"
-    },
-    {
-      "name": "Létalité paludisme grave et compliqué",
-      "type": "indicator",
-      "dhisID": "CYQEkP3xvza",
-      "dhisName": "CHRD Taux de letalite en Paludisme grave et complique",
-      "groupCode": "G7"
-    },
-    {
-      "name": "Létalité hospitalière paludisme",
-      "type": "indicator",
-      "dhisID": "qOcDyeEy6iG",
-      "dhisName": "CHRD Taux de letalite specifique du paludisme en milieu hospitalier",
-      "groupCode": "G7"
+     {
+      "name": "CHRD Chlorhexidine",
+      "type": "dataelement",
+      "dhisID": "o18JraLOxf9",
+      "dhisName": "Taux disponibilité des Intrants de santé au niveau FS",
+      "groupCode": "G5"
     }
   ],
   "indicatorGroup": [
     {
       "code": "G1",
       "name": "Dépistage CSB",
-      "titre": "Taux de cas téstés positifs par RDT (%)"
+      "titre": "Taux de CPN au niveau FS"
     },
     {
       "code": "G2",
-      "name": "Référénce CSB",
-      "titre": "Proportion de cas paludisme grave référé (%)"
+      "name": "Accouchement",
+      "titre": "Taux d'accouchement au niveau FS"
     },
     {
       "code": "G3",
-      "name": "Traitement CSB",
-      "titre": "Proportion de cas de paludisme simple confirmés traités (%)"
+      "name": "CPoN",
+      "titre": "Taux de CPoN"
     },
     {
       "code": "G4",
-      "name": "Prévention CSB ",
-      "titre": "Proportion de patients ayant reçu des services de prévention (%)"
+      "name": "Décès ",
+      "titre": "Décès maternel et néonatal au niveau FS"
     },
     {
       "code": "G5",
-      "name": "Suivi CSB ",
-      "titre": "Suivi des prestations (Nombre)"
-    },
-    {
-      "code": "G6",
-      "name": "Gestion des intrants CSB ",
-      "titre": "Taux de disponibilité de produits et médicaments paludisme (%)"
-    },
-    {
-      "code": "G7",
-      "name": "Décès dus au paludisme CHRD",
-      "titre": "Proportion de cas de décès pour paludisme (%)"
+      "name": "Intrant ",
+      "titre": "Taux disponibilité des Intrants de santé au niveau FS"
     }
   ]
 }
